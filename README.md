@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <a href="https://github.com/farhanghaisani/"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"></a>
+  <a href="https://github.com/farhanghaisani/"><img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="48" height="48"></a>
   <p>One moment please...</p>
   <br>
   <br>
